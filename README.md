@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Array
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Union Find
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Sorting
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
