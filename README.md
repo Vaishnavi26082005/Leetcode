@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3429-special-array-i](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3429-special-array-i) |
 ## Union Find
 |  |
 | ------- |
