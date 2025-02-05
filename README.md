@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0022-generate-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Matrix
 |  |
 | ------- |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Counting
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
