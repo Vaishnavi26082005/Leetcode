@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1160-letter-tile-possibilities](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2434-design-a-number-container-system) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0022-generate-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1160-letter-tile-possibilities](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Matrix
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0051-n-queens) |
+| [1160-letter-tile-possibilities](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Divide and Conquer
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
