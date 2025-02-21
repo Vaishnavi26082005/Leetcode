@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1160-letter-tile-possibilities](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2434-design-a-number-container-system) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -180,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
