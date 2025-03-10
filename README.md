@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3055-maximum-odd-binary-number](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Matrix
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3055-maximum-odd-binary-number](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3055-maximum-odd-binary-number](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Number Theory
 |  |
 | ------- |
