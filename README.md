@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0747-min-cost-climbing-stairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0854-making-a-large-island](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0338-counting-bits) |
+| [0747-min-cost-climbing-stairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 ## Backtracking
 |  |
