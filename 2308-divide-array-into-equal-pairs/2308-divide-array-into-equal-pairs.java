@@ -5,10 +5,9 @@ class Solution {
             map.put(nums[i],map.getOrDefault(nums[i],0)+1);
 
         }
-        for (int count : map.values()) {
-            if (count % 2 != 0) return false;
+        for(int num:map.keySet()){
+            if(map.get(num)%2!=0)return  false;
         }
-
         return true;
     }
 }
