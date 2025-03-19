@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0213-house-robber-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0229-majority-element-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0075-sort-colors) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
