@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0229-majority-element-ii) |
+| [0396-rotate-function](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0396-rotate-function) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0338-counting-bits) |
+| [0396-rotate-function](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0396-rotate-function) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0070-climbing-stairs) |
+| [0396-rotate-function](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0396-rotate-function) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
