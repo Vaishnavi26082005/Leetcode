@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0112-path-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
