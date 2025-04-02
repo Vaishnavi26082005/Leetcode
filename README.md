@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2262-solving-questions-with-brainpower](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1105-uncrossed-lines](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1105-uncrossed-lines) |
 | [1250-longest-common-subsequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [2262-solving-questions-with-brainpower](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Backtracking
 |  |
 | ------- |
