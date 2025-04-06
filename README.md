@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0229-majority-element-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0396-rotate-function) |
 | [0518-coin-change-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [2690-house-robber-iv](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2690-house-robber-iv) |
 ## Sliding Window
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0396-rotate-function) |
 | [0518-coin-change-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0518-coin-change-ii) |
