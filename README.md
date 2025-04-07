@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0854-making-a-large-island](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0854-making-a-large-island) |
+| [0890-lemonade-change](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0890-lemonade-change) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Number Theory
