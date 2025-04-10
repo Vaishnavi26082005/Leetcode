@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0221-maximal-square) |
 | [0854-making-a-large-island](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1036-rotting-oranges) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0368-largest-divisible-subset) |
