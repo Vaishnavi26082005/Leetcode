@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3429-special-array-i) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3055-maximum-odd-binary-number) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Matrix
 |  |
 | ------- |
@@ -411,4 +414,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0744-network-delay-time) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
