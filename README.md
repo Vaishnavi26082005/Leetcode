@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0221-maximal-square) |
 | [0854-making-a-large-island](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1036-rotting-oranges) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0213-house-robber-ii) |
