@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0221-maximal-square) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0371-sum-of-two-integers) |
