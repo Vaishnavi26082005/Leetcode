@@ -1,52 +1,52 @@
 class Solution {
+    int t;
     public int[] findRedundantConnection(int[][] edges) {
-        UnionFind uf = new UnionFind(edges.length);
-        for (int[] edge : edges) {
-            int first = uf.find(edge[0] - 1);
-            int second = uf.find(edge[1] - 1);
-
-            if (first == second) {
-                return new int[] {edge[0], edge[1]};
-            } else {
-                uf.union(first, second);
-            }
+        t=edges.length;
+        DisjointSet dsu=new DisjointSet(t);
+        int res[]=new int [2];
+        for(int [] edge:edges){
+           if(!dsu.union(edge[0]-1,edge[1]-1)){
+           res=edge;
+            return edge ;
+           }
         }
-        return null;
+
+      return res;  
     }
+}
+public class DisjointSet{
+    int nodes;
+    int parent[];
+    int rank[];
+    DisjointSet(int node){
+        this.parent=new int[node];
+        this.rank=new int[node];
+        for(int i=0;i<node;i++){
+            parent[i]=i;
+        }}
 
-    static class UnionFind {
-        private final int[] parent;
-        private final int[] rank;
-
-        public UnionFind(int size) {
-            parent = new int[size];
-            rank = new int[size];
-            for (int i = 0; i < size; i++) {
-                parent[i] = i;
-                rank[i] = 1;
-            }
+        public int parent(int node){
+            if(parent[node]==node)return node;
+            parent[node]=parent(parent[node]);
+            return parent[node];
         }
 
-        public int find(int x) {
-            if (parent[x] != x) {
-                parent[x] = find(parent[x]);
+        public boolean union(int root1,int root2){
+            int rp1=parent(root1);
+            int rp2=parent(root2);
+            if(rp1==rp2)return false;
+            if(rank[rp1]<rank[rp2]){
+                parent[rp1]=rp2;
+            } 
+            else if(rank[rp1]>rank[rp2]){
+                parent[rp2]=rp1;
             }
-            return parent[x];
+            else{
+                rank[rp1]++;
+                parent[rp2]=rp1;
+            }
+             return true;
         }
+    
 
-        public void union(int x, int y) {
-            int rootX = find(x);
-            int rootY = find(y);
-            if (rootX != rootY) {
-                if (rank[rootX] > rank[rootY]) {
-                    parent[rootY] = rootX;
-                } else if (rank[rootX] < rank[rootY]) {
-                    parent[rootX] = rootY;
-                } else {
-                    parent[rootY] = rootX;
-                    rank[rootX]++;
-                }
-            }
-        }
-    }
 }
