@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1073-number-of-enclaves](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1105-uncrossed-lines](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1105-uncrossed-lines) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1364-tuple-with-same-product](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1073-number-of-enclaves](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0221-maximal-square) |
 | [0854-making-a-large-island](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
