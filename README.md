@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0279-perfect-squares) |
+| [0542-01-matrix](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0744-network-delay-time) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0396-rotate-function) |
 | [0455-assign-cookies](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0221-maximal-square) |
+| [0542-01-matrix](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0396-rotate-function) |
 | [0518-coin-change-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
