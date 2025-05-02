@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1144-optimize-water-distribution-in-a-village](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1144-optimize-water-distribution-in-a-village) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1073-number-of-enclaves](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1144-optimize-water-distribution-in-a-village](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1144-optimize-water-distribution-in-a-village) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0744-network-delay-time) |
+| [1144-optimize-water-distribution-in-a-village](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1144-optimize-water-distribution-in-a-village) |
 | [2434-design-a-number-container-system](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -470,4 +473,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0875-longest-mountain-in-array) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1144-optimize-water-distribution-in-a-village](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1144-optimize-water-distribution-in-a-village) |
 <!---LeetCode Topics End-->
