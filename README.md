@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0871-keys-and-rooms) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0871-keys-and-rooms) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0051-n-queens) |
+| [0813-all-paths-from-source-to-target](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
