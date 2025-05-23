@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3429-special-array-i) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Hash Table
 |  |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Backtracking
 |  |
 | ------- |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -505,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3055-maximum-odd-binary-number](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Number Theory
 |  |
@@ -517,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Shortest Path
 |  |
 | ------- |
