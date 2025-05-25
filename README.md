@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1558-course-schedule-iv) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1558-course-schedule-iv) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Search Tree
@@ -443,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
