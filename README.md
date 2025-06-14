@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0890-lemonade-change](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0907-koko-eating-bananas](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0713-subarray-product-less-than-k](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0907-koko-eating-bananas](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [2690-house-robber-iv](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sliding Window
