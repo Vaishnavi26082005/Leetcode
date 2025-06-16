@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2107-find-unique-binary-string](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2262-solving-questions-with-brainpower](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
