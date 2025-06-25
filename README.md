@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [3639-zero-array-transformation-i](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2478-longest-nice-subarray) |
