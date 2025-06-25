@@ -570,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
