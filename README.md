@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1105-uncrossed-lines) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1364-tuple-with-same-product](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0713-subarray-product-less-than-k](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2690-house-robber-iv](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sliding Window
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1105-uncrossed-lines](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1105-uncrossed-lines) |
 | [1250-longest-common-subsequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2262-solving-questions-with-brainpower](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
