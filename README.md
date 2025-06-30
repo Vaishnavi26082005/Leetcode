@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0854-making-a-large-island](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0854-making-a-large-island) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0869-similar-string-groups](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0869-similar-string-groups) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -480,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1364-tuple-with-same-product) |
