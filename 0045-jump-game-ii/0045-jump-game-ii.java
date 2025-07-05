@@ -1,19 +1,18 @@
 class Solution {
-    public int jump(int[] arr) {
-        int n=arr.length;
-       Integer dp[]=new Integer [arr.length];
-       dp[arr.length-1]=0;
-       for(int i=n-2;i>=0;i--){
-        int steps=arr[i];
-        int min=Integer.MAX_VALUE;
-        for(int j=1;j<=steps&&i+j<arr.length;j++){
-            if(dp[i+j]!=null)
-           min=Math.min(min,dp[i+j]);
-        }
-        if(min!=Integer.MAX_VALUE){
-            dp[i]=min+1;
-        }
-       }
-        return dp[0];
+    public int jump(int[] nums) {
+     int f=0;
+     int end=0;
+     int jump=0;
+     for(int i=0;i<nums.length-1;i++){
+        
+        f=Math.max(f,i+nums[i]);
+         if(i==end){
+            jump++;
+            end=f;
+            if(end==nums.length-1)
+            return jump;
+         }
+     }
+     return jump;
     }
 }
