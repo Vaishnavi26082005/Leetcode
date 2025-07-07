@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1144-optimize-water-distribution-in-a-village](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1144-optimize-water-distribution-in-a-village) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1558-course-schedule-iv](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1105-uncrossed-lines) |
 | [1250-longest-common-subsequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2262-solving-questions-with-brainpower](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
