@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1105-uncrossed-lines](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1105-uncrossed-lines) |
+| [1236-n-th-tribonacci-number](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0396-rotate-function) |
+| [1236-n-th-tribonacci-number](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
