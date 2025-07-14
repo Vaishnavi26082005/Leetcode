@@ -549,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0396-rotate-function) |
 | [1236-n-th-tribonacci-number](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -677,4 +678,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
