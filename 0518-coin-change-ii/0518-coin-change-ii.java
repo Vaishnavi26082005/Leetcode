@@ -1,29 +1,23 @@
 class Solution {
     public int change(int amount, int[] coins) {
         int n=coins.length;
-        int m=amount+1;
-        int [][]dp= new int[m][n];
-       for(int a[]:dp){
-        Arrays.fill(a,-1);
-       }
-        return ch(amount,coins,0,dp);
-        
-    }
-    public int ch(int amount,int[] coins,int idx,int[][]dp){
-        if(idx==coins.length){
-         return 0;
+        int t=amount+1;
+        int dp[][]= new int [n][t];
+        for(int i=0;i<t;i++){
+            if(i%coins[0]==0)
+            dp[0][i]=1;
+            else dp[0][i]=0;
         }
-        if(amount==0){
-             return 1;
+        for(int i=1;i<n;i++){
+            for(int j=0;j<t;j++){
+                int nt =dp[i-1][j];
+                int take=0;
+                if(j>=coins[i]){
+                    take=dp[i][j-coins[i]];
+                }
+                dp[i][j]=nt+take;
+            }
         }
-        int inc=0;
-        int exc=0;
-        if(dp[amount][idx]!=-1)return dp[amount][idx];
-        if(coins[idx]<=amount){
-        inc=ch(amount-coins[idx],coins,idx,dp);
-        }
-
-        exc=ch(amount,coins,idx+1,dp);
-        return dp[amount][idx]=inc+exc;
+return dp[n-1][t-1];
     }
 }
