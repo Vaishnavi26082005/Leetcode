@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0041-first-missing-positive) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0455-assign-cookies) |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
