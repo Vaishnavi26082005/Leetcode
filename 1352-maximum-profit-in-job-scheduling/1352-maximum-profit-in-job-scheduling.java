@@ -1,44 +1,46 @@
 class Solution {
-    private int memo[];
-    private int n;
-    
 
-    public int generate(int arr[][],int l,int current_end){
-        int r= n-1;
-        int ans=n;
+    public int bs(int arr[][],int l,int jend){
+        int r=arr.length-1;
+        int res=arr.length;
         while(l<=r){
             int mid=l+(r-l)/2;
-            if(arr[mid][0]>=current_end){
-                ans=mid;
+
+            if(arr[mid][0]>=jend){
+                res=mid;
                 r=mid-1;
             }
             else{
                 l=mid+1;
             }
         }
-        return ans;
+        return res;
     }
-    public int solve(int arr[][],int i){
-        if(i>=n)return 0;
-        if(memo[i]!=-1)return memo[i];
-        int next =generate(arr,i+1,arr[i][1]);
-        int taken=arr[i][2]+solve(arr,next);
-        int not_taken=solve(arr,i+1);
-        return memo[i]=Math.max(taken,not_taken);
+    public int solve(int[][]arr,int i,int dp[]){
+        int n=arr.length;
+        if(i>=n){
+            return 0;
+        }
+        if(dp[i]!=-1){
+            return dp[i];
+        }
+
+        int next=bs(arr,i+1,arr[i][1]);
+        int take=arr[i][2]+solve(arr,next,dp);
+        int nt=solve(arr,i+1,dp);
+       return dp[i]=Math.max(take,nt);
     }
-    public int jobScheduling(int[] startTime, int[] endTime, int[] profit) {
-        n = startTime.length;
-        int arr[][]= new int[n][3];
-       for(int i=0;i<n;i++){
-        arr[i][0]=startTime[i];
-        arr[i][1]=endTime[i];
-        arr[i][2]=profit[i];
-       }
-
-        memo = new int[n];
-        Arrays.fill(memo, -1);
-
-       Arrays.sort(arr,Comparator.comparingInt(a->a[0]));
-       return solve(arr,0);
+    public int jobScheduling(int[] st, int[] endTime, int[] profit) {
+        int n=st.length;
+        int ar[][]=new int[n][3];
+        for(int i=0;i<n;i++){
+            ar[i][0]=st[i];
+            ar[i][1]=endTime[i];
+            ar[i][2]=profit[i];
+        }
+        Arrays.sort(ar,Comparator.comparingInt(a->a[0]));
+        int dp[]=new int[n];
+        Arrays.fill(dp,-1);
+        return solve(ar,0,dp);
     }
 }
