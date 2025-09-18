@@ -1,39 +1,32 @@
 class Solution {
-    public boolean canFinish(int V, int[][] course) {
-        int in[]= new int[V];
-        List<List<Integer>> l= new ArrayList<>();
-        for(int i=0;i<V;i++){
-            l.add(new ArrayList<>());
-        }
+    public boolean canFinish(int V, int[][] ar) {
+        List<List<Integer>> arr = new ArrayList<>();
 
-        for(int [] a:course){
+        int []in =new int[V];
+        for(int i=0;i<V;i++){
+         arr.add(new ArrayList<>());
+        }
+        for(int[] a:ar){
             int u=a[0];
             int v=a[1];
-            l.get(u).add(v);
-           
+            arr.get(u).add(v);
+            in[v]++;
         }
-        for(int i=0;i<l.size();i++){
-            for(int a:l.get(i)){
-                in[a]++;
-
-            }
-        }
-        Queue<Integer>qq= new LinkedList<>();
+        LinkedList<Integer>qq= new LinkedList<>();
         for(int i=0;i<V;i++){
             if(in[i]==0){
                 qq.add(i);
             }
         }
-        List<Integer>res=new ArrayList<>();
+        List<Integer>l= new ArrayList<>();
         while(!qq.isEmpty()){
-            int node=qq.poll();
-            res.add(node);
-            for(int z:l.get(node)){
-                in[z]--;
-                if(in[z]==0)qq.add(z);
+            int r=qq.poll();
+            l.add(r);
+            for(int k:arr.get(r)){
+                in[k]--;
+                if(in[k]==0)qq.add(k);
             }
-
         }
-        return res.size()==V;
+        return l.size()==V;
     }
 }
