@@ -1,45 +1,49 @@
 class Solution {
     public int networkDelayTime(int[][] times, int n, int k) {
-        ArrayList<ArrayList<int[]>>adj= new ArrayList<>();
-        for(int i=0;i<=n;i++){
-            adj.add(new ArrayList<>());
-        }
-
-        for(int [] a:times){
-            int u=a[0];
-            int v=a[1];
-            int c=a[2];
-            adj.get(u).add(new int[]{v,c});
-        }
         int dist[]= new int[n+1];
         Arrays.fill(dist,Integer.MAX_VALUE);
-        dist[k]=0;
-        PriorityQueue<int[]>pq= new PriorityQueue<>(new Comparator<int[]>(){
-            public int compare(int[]p1,int [] p2){
+        ArrayList<ArrayList<int[]>>arr= new ArrayList<>();
+        for(int i=0;i<=n;i++){
+            arr.add(new ArrayList<>());
+        }
+        for(int []a:times){
+            int u=a[0];
+            int v=a[1];
+            int w=a[2];
+            arr.get(u).add(new int[]{v,w});
+            // arr.get(v).add(new int[]{u,w});
+        }
+        PriorityQueue<int[]>pq= new PriorityQueue<>(new Comparator<>(){
+            public int compare(int []p1,int[]p2){
                 return p1[1]-p2[1];
+
             }
+
         });
         pq.add(new int[]{k,0});
+        dist[k]=0;
         while(!pq.isEmpty()){
-            int[] curr= pq.poll();
+            int curr[]= pq.poll();
             int node=curr[0];
             int d=curr[1];
             if(d>dist[node])continue;
-
-            for(int[] nbr:adj.get(node)){
-               int v=nbr[0];
-               int c=nbr[1];
-               if(d+c<dist[v]){
-                dist[v]=d+c;
-                pq.offer(new int[]{v,dist[v]});
-               }
+            for(int a[]:arr.get(node)){
+              int v=a[0];
+              int w=a[1];
+              if(d+w<dist[v]){
+                dist[v]=d+w;
+                pq.add(new int[]{v,d+w});
+              }
             }
-        }
-        int max=Integer.MIN_VALUE;
 
-        for(int i=1;i<=n;i++){
-           max=Math.max(max,dist[i]);      
         }
-        return max==Integer.MAX_VALUE?-1:max;
+        int min=Integer.MIN_VALUE;
+        boolean f=false;
+        for(int i=1;i<=n;i++){
+            if(dist[i]==Integer.MAX_VALUE)f=true;
+            min=Math.max(min,dist[i]);
+        }
+return f==true?-1:min;
+
     }
 }
