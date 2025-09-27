@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0077-combinations) |
 | [0494-target-sum](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vaishnavi26082005/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1160-letter-tile-possibilities) |
