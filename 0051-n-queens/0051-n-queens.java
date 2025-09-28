@@ -1,46 +1,40 @@
 class Solution {
     public List<List<String>> solveNQueens(int n) {
-        List<List<String>>res= new ArrayList<>();
-        boolean board[][]= new boolean[n][n];
-        queen(res,board,0,n);
-        return res;
-
-        
+      List<List<String>> res  =new ArrayList<>();
+      boolean [][] vis= new boolean[n][n];
+      queen(res,vis,0,n);
+      return res;
     }
-    public static boolean issafe(boolean[][]board,int row,int col){
+    public static boolean issafe(int row, int col,boolean[][]vis){
         int r=row;
         while(r>=0){
-            if(board[r][col]==true)return false;
+            if(vis[r][col])return false;
             r--;
         }
-         r= row;
-       int c= col;
+        r=row;
+        int c=col;
         while(r>=0&&c>=0){
-            if(board[r][c]==true)return false;
+            if(vis[r][c])return false;
             r--;
             c--;
 
         }
         r=row;
         c=col;
-        while(r>=0&&c<board[0].length){
-            if(board[r][c]==true)return false;
-            r--;
-            c++;
+        while(r>=0&&c<vis[0].length){
+            if(vis[r][c])return false;
+            r--;c++;
         }
-        return true;
-
+    return true;
     }
 
-
-
-    public static void queen(List<List<String>>res,boolean[][] board,int row,int n){
-      if(n==0){
-           ArrayList<String>l= new ArrayList<>();
-           for(int i=0;i<board.length;i++){
+    public static void queen(List<List<String>> ans,boolean[][]vis,int row,int n){
+       if(n==0){
+        ArrayList<String>l= new ArrayList<>();
+        for(int i=0;i<vis.length;i++){
             String s="";
-            for(int j=0;j<board[0].length;j++){
-                if(board[i][j]==true){
+            for(int j=0;j<vis[0].length;j++){
+                if(vis[i][j]){
                     s+="Q";
                 }
                 else{
@@ -48,16 +42,17 @@ class Solution {
                 }
             }
             l.add(s);
-           }
-           res.add(l);
-           return;
         }
-        for(int col=0;col<board[0].length;col++){
-            if(issafe(board,row,col)){
-                board[row][col]=true;
-                queen(res,board,row+1,n-1);
-                board[row][col]=false;
-            }
+        ans.add(l);
+        return;
+       }
+
+       for(int i=0;i<vis[0].length;i++){
+        if(issafe(row,i,vis)){
+            vis[row][i]=true;
+            queen(ans,vis,row+1,n-1);
+            vis[row][i]=false;
         }
+       }
     }
 }
