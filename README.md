@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vaishnavi26082005/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vaishnavi26082005/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
